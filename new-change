@@ -35,6 +35,8 @@ entry, save an empty file and no entry will be generated.
 You can then use the ``scripts/render-change`` to generate the
 CHANGELOG.rst file.
 
+this is ad by kantha
+
 """
 import os
 import re
